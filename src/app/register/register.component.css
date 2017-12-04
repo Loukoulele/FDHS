@@ -1,0 +1,41 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~font-awesome/css/font-awesome.css';
+
+.form-group{
+	    padding-top: 5%;
+	    padding-left: 30%;
+}
+.form-control{
+    	max-width: 400px;
+}
+ .input-group{
+ 	padding-top: 2em;
+ 	color:whitesmoke;
+ 	font-size: 12px;
+}
+.input-group-addon,.form-control{
+	background: none;
+	border-radius: 30px;
+}
+.btn:hover{
+	cursor: pointer;
+}
+.btn {
+	border-radius: 20px;
+	background-color: white;
+	border-color:white;
+	color: black;
+	padding-right: 5%;
+	padding-left: 4%;
+	margin-top: 5%;
+	margin-left: 20%;
+}
+.form-control{
+	border-left: none;
+
+}
+.fa{
+	color: white;
+}
+
+
