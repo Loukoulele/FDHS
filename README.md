@@ -25,9 +25,17 @@ Une maquette ainsi que des demandes écrites nous ont était transmise afin d'av
 Le délai est de 1 mois et demi, sinon l'association ira voir ailleurs.
 
 
-### 1.3 Informations sur l'environnement
+### 1.3 Information sur l'environnement
 
 Une fois sur le site internet, vous tomberez dans l'accueil de HDFS. Il faudra suivre le déroulement de l'inscription ou se connecter afin de poursuivre sur le site.
+
+Les différents éléments qui doit être pris en compte sont : l'accueil, profil, messages et documents pour les onglets.
+
+- L'accueil sera la redirection une fois la personne connecté, un bref récapitulatif des messages, une notification des nouveau messages seront sur cette page.
+
+- Le profil regroupera les informations nécessaires aux demandes de l'utilisateur. L'utilisateur aura acces à cette page afin de modifier ou d'apercevoir ces coordonées.
+
+- Messages
 
 L'inscription ou la connection effectué, vous serez redigiré sur l'accueil du site.
 
