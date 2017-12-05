@@ -7,19 +7,26 @@ Description du projet HDFS
 Développement d'un Progiciel pour l'association HDFS. Technologie utilisé : Angular 4, PhP, JS, NodeJS, MongoDB, HTML, CSS ainsi que BootStrap. Test unitaire réalisé avec : Html2Js.
 
 
-Exploration et Installation
+1.1 Exploration et Installation
 
 Afin de visionner le site web de vente de drone il faudra ce rendre sur l'url suivante :
 
 http://HDFS.com
 
-Afin de suivre le bon déroulement de l'application, suivez explicitement le déroulement de l'inscription et suivez les démarches.
+Afin de suivre le bon déroulement de l'application, suivez explicitement les démarches à suivre.
 
-Informations sur l'environnement
+1.2 Attente du projet
 
-Web :
+Le projet HDFS à été concue à un besoin bien précis. Le client voulait une site permettant de gérer l'inscription et les demandes d'un projet pour une association pour handicapées.
 
-Des que l'url sera rentrer, vous serez dans l'accueil de SWD. Vous pourrez choisir une catégorie de drone, vous serez rediriger sur la catégorie en question. Choisiser l'article qui vous intéresse pour pouvoir avoir plus d'informations, ou ajouter l'article dans votre panier.
+Une maquette ainsi que des demandes écrites nous ont était transmise afin d'avoir un début de structure du projet HDFS.
+
+Le délai est de 1 mois et demi, sinon l'association prendront le logiciel ailleurs.
+
+
+1.2 Informations sur l'environnement
+
+Des que l'url sera rentrer, vous tomberez dans l'accueil de HDFS. Vous pourrez choisir une catégorie de drone, vous serez rediriger sur la catégorie en question. Choisiser l'article qui vous intéresse pour pouvoir avoir plus d'informations, ou ajouter l'article dans votre panier.
 
 Continuez la navigation ou cliquer sur panier afin d'allez valider votre commande. La redirection fait sur le panier modifier la quantité de l'article ou supprimer l'article désirer. La confirmation effectué vous redigera vers une page ou il faudra impérativement ce connecter ou créer un compte afin de pouvoir continuer l'achat.
 
