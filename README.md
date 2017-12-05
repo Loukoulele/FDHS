@@ -29,19 +29,19 @@ Le délai est de 1 mois et demi, sinon l'association ira voir ailleurs.
 
 Une fois sur le site internet, vous tomberez dans l'accueil de HDFS. Il faudra suivre le déroulement de l'inscription ou se connecter afin de poursuivre sur le site.
 
+L'inscription ou la connection effectué, vous serez redigiré sur l'accueil du site.
+
 Les différents éléments qui doit être pris en compte sont : l'accueil, profil, messages et documents pour les onglets.
 
 - L'accueil sera la redirection une fois la personne connecté, un bref récapitulatif des messages, une notification des nouveau messages seront sur cette page.
 
 - Le profil regroupera les informations nécessaires aux demandes de l'utilisateur. L'utilisateur aura acces à cette page afin de modifier ou d'apercevoir ces coordonées.
 
-- Messages
+- Messages regroupera tout les messages poster par l'utilisateur en question, ce qui lui servira de mémoire personnelle et de voir si oui ou non son message à était traiter.
 
-L'inscription ou la connection effectué, vous serez redigiré sur l'accueil du site.
+- Les documents serviront à ajouter les pièces jointes nécessaires aux remplissage des formulaires adéquates au déroulement de l'environnement.
 
 Continuez la navigation ou cliquer sur panier afin d'allez valider votre commande. La redirection fait sur le panier modifier la quantité de l'article ou supprimer l'article désirer. La confirmation effectué vous redigera vers une page ou il faudra impérativement ce connecter ou créer un compte afin de pouvoir continuer l'achat.
-
-Une fois que vous vous êtes connecter ou le compte créer, l'adresse devra être confirmer ou modifier pour le point de livraison.
 
 ** Le mode de paiement etre skip pour le bien du projet
 
