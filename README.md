@@ -80,8 +80,8 @@ Une fois sur l'application vous pourrez explorer l'environnement afin de modifie
 Le listing sera effectif , et vous pourrez recupérer un récapitulatif de la vente en cours. Une importation est aussi a disposition,cliqué sur le bouton importé et vous pourrez ajouter un fichier txt ou xml pour pouvoir ajouter une nouvelle liste de drone dans la base de données.
 
 Et pour finir un onglet ou pourrez ajouter des réductions ou mettre en place des promotions sur les prix des drones gérer en base de données.
+
+
 ### 1. Problémes rencontrés
 
-Probléme connus
-
-Si vous découvrer un bug une partie envoyer une requête sera disponible sur le site web SWD ou sur l'application SWD, laisser nous un message avec le probléme rencontrer.
+Les différents problémes rencontrés ont était relevé dans un fichier en téléchargements, avec le suivi et le correctif effectué.
