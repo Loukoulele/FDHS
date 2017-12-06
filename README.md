@@ -1,24 +1,24 @@
-# HDFS
+# FDHS
 
 Personal Project Create by Benayoun Ilan And Da Corte Julien
 
-Description du projet HDFS
+Description du projet FDHS
 
-Développement d'un Progiciel pour l'association HDFS. Technologie utilisé : Angular 4, PhP, JS, NodeJS, MongoDB, HTML, CSS ainsi que BootStrap. Test unitaire réalisé avec : Html2Js.
+Développement d'un Progiciel pour l'association FDHS. Technologie utilisé : Angular 4, PhP, JS, NodeJS, MongoDB, HTML, CSS ainsi que BootStrap. Test unitaire réalisé avec : Html2Js.
 
 
 ### 1.1 Exploration et Installation
 
 Pour visioner et ce rendre sur le site internet, il faudra se rendre sur l'adresse suivante :
 
-http://HDFS.com
+http://FDHS.com
 
 Afin de suivre le bon déroulement de l'application, suivez explicitement les démarches à suivre.
 
 
 ### 1.2 Attente du projet
 
-Le projet HDFS à été concue à un besoin bien précis. Le client voulait un site permettant de gérer l'inscription et les demandes d'un projet pour une association pour handicapées.
+Le projet FDHS à été concue à un besoin bien précis. Le client voulait un site permettant de gérer l'inscription et les demandes d'un projet pour une association pour handicapées.
 
 Une maquette ainsi que des demandes écrites nous ont était transmise afin d'avoir un début de structure du projet HDFS.
 
