@@ -41,9 +41,29 @@ Les différents éléments qui doit être pris en compte sont : l'accueil, profi
 
 - Les documents serviront à ajouter les pièces jointes nécessaires aux remplissage des formulaires adéquates au déroulement de l'environnement.
 
-Continuez la navigation ou cliquer sur panier afin d'allez valider votre commande. La redirection fait sur le panier modifier la quantité de l'article ou supprimer l'article désirer. La confirmation effectué vous redigera vers une page ou il faudra impérativement ce connecter ou créer un compte afin de pouvoir continuer l'achat.
 
-** Le mode de paiement etre skip pour le bien du projet
+### 1.4 Précision supplémentaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 1.5
 
 Et pour finir la redirection final sur la page de confirmation de l'achat , avec une bref récapitulatif et le numéroe client .
 
@@ -60,6 +80,7 @@ Une fois sur l'application vous pourrez explorer l'environnement afin de modifie
 Le listing sera effectif , et vous pourrez recupérer un récapitulatif de la vente en cours. Une importation est aussi a disposition,cliqué sur le bouton importé et vous pourrez ajouter un fichier txt ou xml pour pouvoir ajouter une nouvelle liste de drone dans la base de données.
 
 Et pour finir un onglet ou pourrez ajouter des réductions ou mettre en place des promotions sur les prix des drones gérer en base de données.
+### 1. Problémes rencontrés
 
 Probléme connus
 
