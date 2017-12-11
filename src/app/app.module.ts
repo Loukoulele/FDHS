@@ -7,6 +7,7 @@ import { AuthenticationComponent } from './authentication/authentication.compone
 import { FooterComponent } from './footer/footer.component';
 import { MenuComponent } from './menu/menu.component';
 import { RegisterComponent } from './register/register.component';
+import { AppRoutingModule } from './/app-routing.module';
 
 
 @NgModule({
@@ -15,10 +16,11 @@ import { RegisterComponent } from './register/register.component';
     AuthenticationComponent,
     FooterComponent,
     MenuComponent,
-    RegisterComponent
+    RegisterComponent,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
