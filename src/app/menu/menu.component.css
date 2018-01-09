@@ -1,3 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~font-awesome/css/font-awesome.css';
+
+img{
+	height: 50%;
+    width: 50%;
+    padding: 0.5em;
+}
 .nav-side-menu {
   overflow: auto;
   font-family: verdana;
@@ -11,6 +19,10 @@
 a{
 	  color: #e1ffff;
 	  text-decoration: none;
+}
+a:hover{
+	color: #e1ffff;
+	text-decoration: none;
 }
 .nav-side-menu .brand {
   background-color: #23282e;

@@ -1,16 +1,17 @@
 <div class="authentication">
 	<div class="container">
 		<img src="./assets/images/MIGHTYFOX1.png" class="rounded mx-auto d-block">	
-		<form class="form-group">
+		
+		<form (submit)="loginUser($event)" class="form-group">
 			<div class="input-group">
 				<div class="input-group-addon"><i class="fa fa-user" aria-hiden="true"></i></div>
-				<input type="email" class="form-control" id="inlineFormInput" placeholder="name@example.com">
+				<input type="text" class="form-control" placeholder="name@example.com">
 		  	</div>
 		  	<div class="input-group">
 		  		<div class="input-group-addon"><i class="fa fa-lock" aria-hiden="true"></i></div>
-		    	<input type="password" class="form-control" id="inlineFormInputGroup" placeholder="Password">
+		    	<input type="password" class="form-control" placeholder="Password">
 		  	</div>
-		  		<button type="submit" class="btn btn-primary">Sign in</button>
+		  		<input type="submit" value="login" class="btn btn-primary"> 
 		</form>
 	</div>
 </div>
