@@ -9,6 +9,9 @@ import { MenuComponent } from './menu/menu.component';
 import { RegisterComponent } from './register/register.component';
 import { AppRoutingModule } from './/app-routing.module';
 import { AccueilComponent } from './accueil/accueil.component';
+import { ProfileComponent } from './profile/profile.component';
+import { DocumentComponent } from './document/document.component';
+import { MessageComponent } from './message/message.component';
 
 const appRoutes: Routes = [
 {
@@ -16,9 +19,21 @@ const appRoutes: Routes = [
     component : AuthenticationComponent
   },
 {
-    path: 'Accueil',
+    path: 'accueil',
     component : AccueilComponent
-  }
+  },
+{
+   path: 'profile',
+   component : ProfileComponent
+},
+{
+   path: 'document',
+   component : DocumentComponent
+},
+{
+   path: 'message',
+   component : MessageComponent
+}
 ];
 
 @NgModule({
@@ -29,6 +44,9 @@ const appRoutes: Routes = [
     MenuComponent,
     RegisterComponent,
     AccueilComponent,
+    ProfileComponent,
+    DocumentComponent,
+    MessageComponent,
   ],
   imports: [
     BrowserModule,

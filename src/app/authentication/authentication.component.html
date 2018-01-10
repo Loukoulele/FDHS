@@ -11,7 +11,10 @@
 		  		<div class="input-group-addon"><i class="fa fa-lock" aria-hiden="true"></i></div>
 		    	<input type="password" class="form-control" placeholder="Password">
 		  	</div>
-		  		<input type="submit" value="login" class="btn btn-primary"> 
+		  	<div *ngIf="show" class="alert alert-danger" role="alert">
+  				<strong>Wrong password ! try again</strong>
+			</div>
+		  		<input (click)="show = !show" type="submit" value="login" class="btn btn-primary"> 
 		</form>
 	</div>
 </div>

@@ -23,6 +23,9 @@
 	background: none;
 	border-radius: 30px;
 }
+.btn:focus{
+	box-shadow: none;
+}
 .btn:hover{
 	cursor: pointer;
 }
@@ -48,4 +51,9 @@ img{
 	height: 15%;
     width: 15%;
 }
-
+.alert{
+	background: transparent;
+	border: none;
+	color: #ff4d4d;
+	font-size: 0.8em;
+}
